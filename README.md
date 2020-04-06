@@ -1,5 +1,5 @@
 # Fatma-Ebrar-S-mer-175-B-
-2.Hafta Ödevi
+#2.Hafta Ödevi
     #**Pişi Tarifi İçin Malzemeler**
 1 su bardağı ılık süt
 Yarım su bardağı ılık su
@@ -14,7 +14,7 @@ Aldığı kadar un
 Sonrasında yavaş yavaş un ekliyoruz ve yoğuruyoruz. 1 saat dinlenmeye bırakıyoruz.
 Dinlenen hamurumuzu elimizle şekillendiriyoruz ve kızartıyoruz.
 
-      #**Ingredients for Pisi**
+   #**Ingredients of Pisi**
 1 glass of water warm milk
 half glass of water warm water
 1 packet of yeast
