@@ -31,7 +31,7 @@ Then put the yeast and sugar and salt into the same bowl and mix.
 After that we add flour slowly and knead.
 And we leave the dough to rest for 1 hour.
 We shape the dough and fry in hot oil. 
-      There are 244 cal in 100 grams pisi.
+      There are 244 cal in 100 grams in pisi.
             Bon Appetite!
  --------------------------------------          
  |İsmi  |Kilo |Boy|Beden kitle endeksi|
